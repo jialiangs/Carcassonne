@@ -1,0 +1,28 @@
+{ "name": "Carcassonne",
+  "inventory":
+  [ { "item": "A", "quantity": 2 },
+    { "item": "B", "quantity": 4 },
+    { "item": "C", "quantity": 1 },
+    { "item": "D", "quantity": 4 },
+    { "item": "E", "quantity": 5 },
+    { "item": "F", "quantity": 2 },
+    { "item": "G", "quantity": 1 },
+    { "item": "H", "quantity": 3 },
+    { "item": "I", "quantity": 2 },
+    { "item": "J", "quantity": 3 },
+    { "item": "K", "quantity": 3 },
+    { "item": "L", "quantity": 3 },
+    { "item": "M", "quantity": 2 },
+    { "item": "N", "quantity": 3 },
+    { "item": "O", "quantity": 2 },
+    { "item": "P", "quantity": 3 },
+    { "item": "Q", "quantity": 1 },
+    { "item": "R", "quantity": 3 },
+    { "item": "S", "quantity": 2 },
+    { "item": "T", "quantity": 1 },
+    { "item": "U", "quantity": 8 },
+    { "item": "V", "quantity": 9 },
+    { "item": "W", "quantity": 4 },
+    { "item": "X", "quantity": 1 }
+  ]
+}
